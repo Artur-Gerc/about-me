@@ -10,5 +10,3 @@
 Это если коротко.
 
 Фото белого кота (почти такого же, как у меня):
-
-![белый кот](https://www.zastavki.com/pictures/originals/2018Animals___Cats_The_white_Angora_cat_lays_on_the_bed_125373_.jpg)
